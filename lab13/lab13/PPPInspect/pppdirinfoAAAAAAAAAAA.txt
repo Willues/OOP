@@ -1,0 +1,5 @@
+Папки:
+Файлы:
+D:lab13.exe
+D:lab13.exe.config
+D:lab13.pdb

@@ -1,0 +1,357 @@
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:03:52, всего свободного места на диске C: – 18985185280
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:03:52, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:03:52:
+имя диска – C:\, объем – 127880769536, доступный объем – 18985185280, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81552764928, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:03:52, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:03:52, размер файла PPPLogFile.txt – 948, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:03:52, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:03:52
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:03:52, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:03:52, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:03:52, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:03:52, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:03:52, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:03:52, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:03:52, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:03:52, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:03:52, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:03:52, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:03:52, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void ToZip(System.String, System.String), время – 03.12.2021 3:03:52, действие – архивирование каталога D:\C#\lab13\lab13\PPPInspects в D:\C#\lab13\lab13\PPPInspects.zip
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:03:52, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:04:43, всего свободного места на диске C: – 18982424576
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:04:43, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:04:43:
+имя диска – C:\, объем – 127880769536, доступный объем – 18982424576, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81552752640, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:04:43, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:04:43, размер файла PPPLogFile.txt – 4838, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:04:43, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:04:43
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:04:43, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:04:43, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:04:43, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:04:43, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:04:43, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:04:43, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:04:43, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:04:43, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:04:43, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:04:43, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:04:43, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:04:43, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:05:42, всего свободного места на диске C: – 18979938304
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:05:42, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:05:42:
+имя диска – C:\, объем – 127880769536, доступный объем – 18979938304, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81552744448, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:05:42, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:05:42, размер файла PPPLogFile.txt – 8514, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:05:42, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:05:42
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:05:42, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:05:42, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:05:42, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:05:42, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:05:42, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:05:42, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:05:42, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:05:42, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:05:42, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:05:42, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:05:42, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:05:42, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:06:25, всего свободного места на диске C: – 18983116800
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:06:25, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:06:25:
+имя диска – C:\, объем – 127880769536, доступный объем – 18983116800, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81552740352, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:06:25, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:06:25, размер файла PPPLogFile.txt – 12180, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:06:25, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:06:25
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:06:25, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:06:25, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:06:25, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:06:25, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:06:25, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:06:25, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:06:25, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:06:25, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:06:25, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:06:25, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:06:25, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:06:25, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:06:25, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:07:07, всего свободного места на диске C: – 18981203968
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:07:07, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:07:07:
+имя диска – C:\, объем – 127880769536, доступный объем – 18981203968, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81549496320, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:07:07, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:07:07, размер файла PPPLogFile.txt – 16108, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:07:07, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:07:07
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:07:07, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:07:07, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:07:07, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:07:07, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:07:07, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:07:07, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:07:07, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:07:07, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:07:07, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:07:07, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:07:07, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:07:07, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:07:07, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:07:43, всего свободного места на диске C: – 18980081664
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:07:43, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:07:43:
+имя диска – C:\, объем – 127880769536, доступный объем – 18980081664, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81548726272, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:07:43, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:07:43, размер файла PPPLogFile.txt – 20030, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:07:43, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:07:43
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:07:43, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:07:43, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:07:43, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:07:43, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:07:43, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:07:43, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:07:43, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:07:43, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:07:43, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:07:43, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:07:43, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:07:43, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:08:09, всего свободного места на диске C: – 18982449152
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:08:09, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:08:09:
+имя диска – C:\, объем – 127880769536, доступный объем – 18982449152, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81548705792, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:08:09, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:08:09, размер файла PPPLogFile.txt – 23691, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:08:09, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:08:09
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:08:09, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:08:09, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:08:09, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:08:09, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:08:09, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:08:09, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:08:09, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:08:09, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:08:09, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:08:09, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:08:09, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:08:09, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:08:09, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:08:09, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:08:47, всего свободного места на диске C: – 18984763392
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:08:47, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:08:47:
+имя диска – C:\, объем – 127880769536, доступный объем – 18984763392, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81547935744, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:08:47, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:08:47, размер файла PPPLogFile.txt – 27864, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:08:47, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:08:47
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:08:47, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:08:47, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:08:47, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:08:47, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:08:47, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:08:47, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:08:47, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:08:47, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:08:47, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:08:47, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:08:47, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:08:47, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:08:47, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void ToZip(System.String, System.String), время – 03.12.2021 3:08:47, действие – архивирование каталога D:\C#\lab13\lab13\PPPInspects в D:\C#\lab13\lab13\PPPInspects.zip
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:08:47, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:09:24, всего свободного места на диске C: – 18983383040
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:09:24, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:09:24:
+имя диска – C:\, объем – 127880769536, доступный объем – 18983383040, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81547931648, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:09:24, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:09:24, размер файла PPPLogFile.txt – 32262, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:09:24, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:09:24
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:09:24, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:09:24, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:09:24, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:09:24, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:09:24, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:09:24, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:09:24, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:09:24, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:09:24, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:09:24, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:09:24, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:09:24, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:09:24, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void ToZip(System.String, System.String), время – 03.12.2021 3:09:25, действие – архивирование каталога D:\C#\lab13\lab13\PPPInspects в D:\C#\lab13\lab13\PPPInspects.zip
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:09:25, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:09:57, всего свободного места на диске C: – 18983456768
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:09:57, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:09:57:
+имя диска – C:\, объем – 127880769536, доступный объем – 18983456768, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81547161600, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:09:57, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:09:57, размер файла PPPLogFile.txt – 36660, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:09:57, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:09:57
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:09:57, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:09:57, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:09:57, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:09:57, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:09:57, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:09:57, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:09:57, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:09:57, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:09:57, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:09:57, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:09:57, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:09:57, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:09:57, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 03.12.2021 3:09:57, действие – перемещение каталога D:\C#\lab13\lab13\PPPFiles в D:\C#\lab13\lab13\PPPInspects
+Метод – Void ToZip(System.String, System.String), время – 03.12.2021 3:09:57, действие – архивирование каталога D:\C#\lab13\lab13\PPPInspects в D:\C#\lab13\lab13\PPPInspects.zip
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:09:57, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:20:27, всего свободного места на диске C: – 18982060032
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:20:27, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:20:27:
+имя диска – C:\, объем – 127880769536, доступный объем – 18982060032, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81546387456, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:20:27, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:20:27, размер файла PPPLogFile.txt – 41280, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:20:27, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:20:27
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:20:27, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:20:27, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:20:27, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:20:27, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:20:27, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:20:27, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:20:27, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:20:27, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:20:27, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:20:27, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:20:27, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:20:27, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:20:27, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:22:32, всего свободного места на диске C: – 18988036096
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:22:32, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:22:32:
+имя диска – C:\, объем – 127880769536, доступный объем – 18988036096, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81546379264, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:22:32, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:22:32, размер файла PPPLogFile.txt – 45202, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:22:32, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:22:32
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:22:32, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:22:32, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:22:32, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:22:32, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:22:32, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:22:32, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:22:32, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:22:32, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:22:32, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:22:32, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:22:32, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:22:32, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:22:32, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void ToZip(System.String, System.String), время – 03.12.2021 3:22:32, действие – архивирование каталога D:\C#\lab13\lab13\PPPInspects в D:\C#\lab13\lab13\PPPInspects.zip
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:22:32, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 3:23:14, всего свободного места на диске C: – 18985259008
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 3:23:14, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 3:23:14:
+имя диска – C:\, объем – 127880769536, доступный объем – 18985259008, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81546375168, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 3:23:14, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 3:23:14, размер файла PPPLogFile.txt – 49600, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 3:23:14, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 3:23:14
+Метод – Void FilesAmount(System.String), время – 03.12.2021 3:23:14, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 3:23:14, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 3:23:14, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 3:23:14, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 3:23:14, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:23:14, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 3:23:14, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 3:23:14, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 3:23:14, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 03.12.2021 3:23:14, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 3:23:14, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 3:23:14, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 3:23:15, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void ToZip(System.String, System.String), время – 03.12.2021 3:23:15, действие – архивирование каталога D:\C#\lab13\lab13\PPPInspects в D:\C#\lab13\lab13\PPPInspects.zip
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 3:23:15, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 03.12.2021 20:31:19, всего свободного места на диске C: – 18932129792
+Метод – Void DisplayDriveFormat(System.String), время – 03.12.2021 20:31:19, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 03.12.2021 20:31:19:
+имя диска – C:\, объем – 127880769536, доступный объем – 18932129792, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81546227712, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 03.12.2021 20:31:19, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 03.12.2021 20:31:19, размер файла PPPLogFile.txt – 54002, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 03.12.2021 20:31:19, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 03.12.2021 20:31:19
+Метод – Void FilesAmount(System.String), время – 03.12.2021 20:31:19, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 03.12.2021 20:31:19, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 03.12.2021 20:31:19, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 03.12.2021 20:31:19, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 03.12.2021 20:31:19, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 20:31:19, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 03.12.2021 20:31:19, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 03.12.2021 20:31:19, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 03.12.2021 20:31:19, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 03.12.2021 20:31:19, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 03.12.2021 20:31:19, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 03.12.2021 20:31:19, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void ToZip(System.String, System.String), время – 03.12.2021 20:31:19, действие – архивирование каталога D:\C#\lab13\lab13\PPPInspects в D:\C#\lab13\lab13\PPPInspects.zip
+Метод – Void UnZip(System.String, System.String), время – 03.12.2021 20:31:19, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
+Метод – Void DisplayTotalFreeSpace(System.String), время – 10.12.2021 19:56:41, всего свободного места на диске D: – 81336487936
+Метод – Void DisplayDriveFormat(System.String), время – 10.12.2021 19:56:41, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 10.12.2021 19:56:41:
+имя диска – C:\, объем – 127880769536, доступный объем – 14365528064, метка тома – 
+имя диска – D:\, объем – 367000547328, доступный объем – 81336483840, метка тома – FIT
+имя диска – P:\, объем – 15728635904, доступный объем – 15681904640, метка тома – kil
+
+Метод – Void GetFullPath(System.String), время – 10.12.2021 19:56:41, полный путь к файлу PPPLogFile.txt – D:\C#\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 10.12.2021 19:56:41, размер файла PPPLogFile.txt – 58170, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 10.12.2021 19:56:41, дата создания файла PPPLogFile.txt – 03.12.2021 2:17:24, дата изменения – 10.12.2021 19:56:41
+Метод – Void FilesAmount(System.String), время – 10.12.2021 19:56:41, количество файлов в директории D:\C#\ – 0
+Метод – Void GetCreationTime(System.String), время – 10.12.2021 19:56:41, время создания каталога D:\C#\ – 15.07.2021 16:00:37
+Метод – Void SubdirectoriesAmount(System.String), время – 10.12.2021 19:56:41, количество подкаталогов каталога D:\C#\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 10.12.2021 19:56:41, родительские директории каталога D:\C#\ – D:\C#
+Метод – System.String GetFilesAndDirectories(System.String), время – 10.12.2021 19:56:41, действие – получение списка файлов и каталогов диска D:
+Метод – Void CreateDirectory(System.String), время – 10.12.2021 19:56:41, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 10.12.2021 19:56:41, действие – создание нового файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 10.12.2021 19:56:41, действие – запись в файл по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 10.12.2021 19:56:41, действие – копирование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt в D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 10.12.2021 19:56:41, действие – переименование файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 10.12.2021 19:56:41, действие – удаление файла по пути D:\C#\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 10.12.2021 19:56:41, действие – создание нового каталога по пути D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 10.12.2021 19:56:41, действие – копирование файлов с расширением *.jpg из D:\pic в D:\C#\lab13\lab13\PPPFiles\t
+Метод – Void ToZip(System.String, System.String), время – 10.12.2021 19:56:41, действие – архивирование каталога D:\C#\lab13\lab13\PPPInspects в D:\C#\lab13\lab13\PPPInspects.zip
+Метод – Void UnZip(System.String, System.String), время – 10.12.2021 19:56:41, действие – разархивирование файла D:\C#\lab13\lab13\PPPInspects.zip в D:\C#\lab13\lab13\PPPIn
